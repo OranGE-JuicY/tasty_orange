@@ -1,0 +1,5 @@
+# 自动处理文本行尾（Windows / Linux / Mac 通用）
+* text=auto
+
+# Jupyter Notebook 不参与文本差异比较
+*.ipynb -text
